@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DataVisualizer.Api/DataVisualizer.Api.csproj" />
+    <Project Path="src/DataVisualizer.Core/DataVisualizer.Core.csproj" />
+    <Project Path="src/DataVisualizer.Infrastructure/DataVisualizer.Infrastructure.csproj" />
+    <Project Path="src/DataVisualizer.Ingestion/DataVisualizer.Ingestion.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DataVisualizer.IntegrationTests/DataVisualizer.IntegrationTests.csproj" />
+    <Project Path="tests/DataVisualizer.UnitTests/DataVisualizer.UnitTests.csproj" />
+  </Folder>
+</Solution>
